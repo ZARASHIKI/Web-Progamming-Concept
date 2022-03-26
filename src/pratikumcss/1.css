@@ -1,0 +1,60 @@
+.p1{
+    text-align: center;  
+}
+*{
+    padding: 2;
+    margin: 2;
+}
+.border-sample{
+    border:thin solid black !important;
+}
+body{
+    font-family: 'Indie Flower', sans-serif;
+    color: #3c305f;
+    font-size: 15pt;
+    background-image:url(https://cdn.wallpapersafari.com/93/7/Zqui9k.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 120%;
+    
+}
+header{
+    color: #6495ED;
+    font-size: 24pt;
+    padding: 20px;
+}
+footer{
+    color: rgb(100, 149, 237);
+    font-size: 24pt;
+}
+.container{
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font-family: 'Inspiration', sans-serif;
+    color: #a12f7f;
+    margin-bottom: 20px;
+}
+.content{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+p{
+    margin-bottom: 10px;
+}
+section{
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 16px;
+    width: 200px;
+}
+.section-container{
+    display: flex;
+    flex-basis: 10px;
+    
+}
+.container2{
+    width: 1000px;
+    padding: 20px;
+    text-align: justify;
+}
